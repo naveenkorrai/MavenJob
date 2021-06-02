@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MaavenJavaTesting" duration-ms="127" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+    <groups>
+    </groups>
+    <test name="Practise" duration-ms="127" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="Appium1()[pri:0, instance:qaclickacademy.AppiumTest@73ad2d6]" name="Appium1" duration-ms="24" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium1 -->
+        <test-method status="PASS" signature="Appium2()[pri:0, instance:qaclickacademy.AppiumTest@73ad2d6]" name="Appium2" duration-ms="1" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium2 -->
+        <test-method status="PASS" signature="Appium3()[pri:0, instance:qaclickacademy.AppiumTest@73ad2d6]" name="Appium3" duration-ms="1" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium3 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestApiTest">
+        <test-method status="PASS" signature="restApi1()[pri:0, instance:qaclickacademy.RestApiTest@7085bdee]" name="restApi1" duration-ms="1" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApi1 -->
+        <test-method status="PASS" signature="restApi2()[pri:0, instance:qaclickacademy.RestApiTest@7085bdee]" name="restApi2" duration-ms="1" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApi2 -->
+        <test-method status="PASS" signature="restApi3()[pri:0, instance:qaclickacademy.RestApiTest@7085bdee]" name="restApi3" duration-ms="0" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApi3 -->
+      </class> <!-- qaclickacademy.RestApiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="selenium()[pri:0, instance:qaclickacademy.SeleniumTest@1ce92674]" name="selenium" duration-ms="1" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium -->
+        <test-method status="PASS" signature="selenium2()[pri:0, instance:qaclickacademy.SeleniumTest@1ce92674]" name="selenium2" duration-ms="1" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium2 -->
+        <test-method status="PASS" signature="selenium3()[pri:0, instance:qaclickacademy.SeleniumTest@1ce92674]" name="selenium3" duration-ms="1" started-at="2021-06-02T21:44:12 IST" finished-at="2021-06-02T21:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium3 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Practise -->
+  </suite> <!-- MaavenJavaTesting -->
+</testng-results>
